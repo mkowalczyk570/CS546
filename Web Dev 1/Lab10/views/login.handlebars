@@ -1,0 +1,20 @@
+{{!--
+
+login form handlebar template
+
+--}}
+<form id="login-form" action="/login" method="POST">
+        <label for="emailAddressInput">Email Address:</label>
+        <input type="email" id="emailAddressInput" name="emailAddressInput" required>
+
+
+        <label for="passwordInput">Password:</label>
+        <input type="password" id="passwordInput" name="passwordInput" required>
+
+        <button type="submit">Login</button>
+</form>
+
+<p>No account?</p>
+<script src = 'public/js/client_side_validation.js'></script>
+
+<a href="/register">Click here to register!</a>

@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "Lab 4 work for CS546",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maciej Kowalczyk 10454755",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.1.0"
+  }
+}

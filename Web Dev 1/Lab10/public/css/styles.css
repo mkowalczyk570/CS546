@@ -1,0 +1,20 @@
+/* You will create a CSS stylesheet in /public/css/styles.css; this file should have at least 5 rulesets.  You will need to utilize all 5 rulesets on each of the pages (not every page has to use all 5 rulesets each but all 5 rulesets must be utilized by the various pages in your application).  So you can have some rulesets for one page, some for another page but there needs to be at least 5 total rulesets that are used between all the pages.  */
+#error{color: rgb(255, 0, 0)}
+
+main {
+    background: rgb(33, 62, 69)4, 254, 254, 0.199;
+    font-family: Calibri,  Helvetica, sans-serif, Times;
+    font-size: 15pt;
+}
+
+body{
+    background-color: rgb(159, 144, 144);
+}
+
+p{color:rgb(34, 138, 50)}
+
+label{color: purple}
+
+button{color: orange}
+
+a{color: hotpink}

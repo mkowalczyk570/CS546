@@ -1,0 +1,16 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "Lab6 work for CS546",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maciej Kowalczyk 10454755",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
+  }
+}

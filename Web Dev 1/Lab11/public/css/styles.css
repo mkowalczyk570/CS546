@@ -1,0 +1,63 @@
+/*
+You must include 10 CSS rules that aply to your application
+*/
+.hidden {
+    display: none;
+}
+
+
+  main {
+    background: rgb(0, 204, 255)4, 254, 254, 0.199;
+    font-family: Calibri,  Helvetica, sans-serif, Times;
+    font-size: 10pt;
+  }
+  
+  main {
+    max-width: 50%;
+    margin: auto;
+  }
+  
+  footer {
+    max-width: 50%;
+    margin: auto;
+  }
+  
+  header {
+    border-bottom: 2px solid #00ffd5;
+    font-size: 2rem;
+  }
+  
+  form{
+    background-color: bisque;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #05eeff;
+    margin-bottom: 5px;
+    background-color: bisque;
+  }
+  
+  h1 {
+    font-size: 1rem;
+  }
+  
+  li{
+    font-size: 1rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 2;
+    background-color: gray;
+  }
+  
+  footer p{
+    font-size: 1rem;
+    background-color: bisque;
+    color: rgb(116, 8, 80)
+  }

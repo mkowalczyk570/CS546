@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 assignment for CS546",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Maciej Kowalczyk 10454755",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  },
+  "devDependencies": {}
+}

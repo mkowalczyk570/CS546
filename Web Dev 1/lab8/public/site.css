@@ -1,0 +1,65 @@
+/*This file should have 10 CSS rulesets */
+*{
+    box-sizing: border-box
+}
+
+html,
+body{
+    font-size: 20pt;
+}
+
+body{
+    background-color: rebeccapurple;
+}
+
+header{
+    border-bottom: 1px solid black
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:aqua
+}
+
+h1{
+    font-size: rem2;
+}
+
+p{
+    color: red
+}
+
+li{
+    color:blue
+}
+
+a:link{
+    color: orange
+}
+a:visited{
+    color: hotpink
+}
+a:hover{
+    color: greenyellow
+}
+a:active{
+    color: black
+}
+
+ul{
+    background-color: midnightblue;
+}
+
+ol{
+    background-color: mediumvioletred;
+}
+
+article{
+    background-color: antiquewhite;
+}
+
+input{
+    color:cornflowerblue
+}
+input{
+    background-color: black;
+}
